@@ -1,6 +1,6 @@
 loop do
 
-    puts "Selecione uma das opções:"
+    puts "Selecione uma das opções: "
     puts "1 - Fazer contas"
     puts "0 - Sair da calculadora"
 
